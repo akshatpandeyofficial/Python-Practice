@@ -1,1 +1,1 @@
-# Python-Practice
+there is some python practice or fundamentals which will help for data analyzation and make it easier
